@@ -13,6 +13,7 @@ import java_cup.runtime.Symbol;
 %column
 %class MeuScanner
 
+// Macros:
 digito = [0-9]
 inteiro = {digito}+
 
